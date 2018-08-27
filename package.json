@@ -1,0 +1,17 @@
+{
+  "name": "cpc-db-migration",
+  "version": "1.0.0",
+  "description": "used to migrate inmate sales databse",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mssql": "^4.1.0",
+    "postgrator": "^3.6.0",
+    "postgrator-cli": "^3.0.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
